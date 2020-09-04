@@ -1,5 +1,11 @@
-### Hi there 👋
-
+Hey bro~
+我是xrf
+一个喜欢 coding 但只是刚接触 Github 的新手，
+是一个喜欢记录生活的摄影师，
+还是 a carzy fan of Lebron James,
+并且是一个喜欢 Python 和 Java 且不擅长C++的 coder，
+我的目标是成为一个老练并且具有 PM 思维的程序员，
+如果有志同道合的朋友可以加我的 QQ ：1070434480 和我一起交流。
 <!--
 **LebronXierunfeng/LebronXierunfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
