@@ -5,7 +5,7 @@ Hey bro~
 还是 a carzy fan of Lebron James,  
 并且是一个喜欢 Python 和 Java 但不擅长C++的 coder，  
 我的目标是成为一个老练并且具有 PM 思维的程序员，  
-如果有志同道合的朋友可以加我的 QQ ：1070434480 和我一起交流。  
+如果有志同道合的朋友可以给我发邮件 1070434480@qq.com 和我一起交流。  
 <!--
 **LebronXierunfeng/LebronXierunfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
